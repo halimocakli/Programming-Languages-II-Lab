@@ -1,0 +1,3 @@
+C:/Users/halim/OneDrive/Desktop/Lab/Soru4/cmake-build-debug/CMakeFiles/Soru4.dir
+C:/Users/halim/OneDrive/Desktop/Lab/Soru4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/halim/OneDrive/Desktop/Lab/Soru4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
